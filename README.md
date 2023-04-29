@@ -6,16 +6,6 @@
 
 
 
-
-```zsh
-
-vips dzsave HE.svs HE
-
-```
-
-
-
-
 ```{r language hacettepe-com-case-13, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
